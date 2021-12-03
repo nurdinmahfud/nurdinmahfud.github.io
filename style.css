@@ -3,9 +3,8 @@ body{
 }
 
 .profile img{
-	border-radius: 50%
+	border-radius: 50%;
 	margin-left: 120px;
-	margin-top: 50px;
 
 .text{
 	position: absolute;
