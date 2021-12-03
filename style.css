@@ -3,11 +3,11 @@ body{
 }
 
 .profile img{
-	width: 120px;
-	heigh: 120px;
+	width: 300px;
+	heigh: 300px;
 	border-radius: 50%;
 	margin-left: 150px;
-	margin-top: 50px;
+	margin-top: 250px;
 
 .text{
 	position: absolute;
