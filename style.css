@@ -16,12 +16,11 @@ body{
 }
 
 .profile h1 {
-	font-size: 5em;
+	font-size: 3em;
 	font-weight: 300;
 	color: #373046;
 }
 
 .profile p {
 	color: #373046;
-	
-	
+	font-size: 3em;
